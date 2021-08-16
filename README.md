@@ -6,4 +6,6 @@ Eg:
     
 Execute:
 .\Capco.bat FILE_PATH
-Example command: .\Capco.bat C:\Users\Desktop\Development\inputSudoku.txt
+Example command: 
+
+.\Capco.bat C:\Users\Desktop\Development\inputSudoku.txt
